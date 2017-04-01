@@ -9,7 +9,6 @@
     "start": "node ."
   },
   "dependencies": {
-    "color": "^1.0.3",
     "jshint": "^2.9.4",
     "jslint": "^0.10.3"
   }
