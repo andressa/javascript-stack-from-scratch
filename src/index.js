@@ -1,2 +1,4 @@
-const str = 'ES6';
-console.log(`Ola ${str}` );
+const Dog = require('./dog')
+const toby = new Dog('toby')
+
+console.log(toby.bark())
