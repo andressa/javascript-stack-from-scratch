@@ -1,0 +1,8 @@
+{
+  "name": "javascript-stack-from-scratch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:andressa/javascript-stack-from-scratch.git",
+  "author": "Andressa Sivolella <andressa.sivolella@twistsystems.com>",
+  "license": "MIT"
+}
