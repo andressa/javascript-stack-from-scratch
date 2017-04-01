@@ -8,7 +8,8 @@
   "scripts": {
     "start": "node ."
   },
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "jshint": "^2.9.4",
     "jslint": "^0.10.3"
   }
