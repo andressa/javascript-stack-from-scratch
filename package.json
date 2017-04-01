@@ -5,10 +5,11 @@
   "repository": "git@github.com:andressa/javascript-stack-from-scratch.git",
   "author": "Andressa Sivolella <andressa.sivolella@twistsystems.com>",
   "license": "MIT",
-  "scripts":{
-	  "start": "node ."
+  "scripts": {
+    "start": "node ."
   },
   "dependencies": {
+    "color": "^1.0.3",
     "jshint": "^2.9.4",
     "jslint": "^0.10.3"
   }
