@@ -6,7 +6,7 @@
   "author": "Andressa Sivolella <andressa.sivolella@twistsystems.com>",
   "license": "MIT",
   "scripts": {
-    "start": "babel-node src",
+    "start": "babel-node src/server",
     "test": "eslint src && flow && jest --coverage",
     "precommit": "yarn test",
     "prepush": "yarn test"
@@ -14,7 +14,10 @@
   "browserslist": [
     "> 1%"
   ],
-  "dependencies": {},
+  "dependencies": {
+    "compression": "^1.6.2",
+    "express": "^4.15.2"
+  },
   "devDependencies": {
     "babel": "^6.23.0",
     "babel-cli": "^6.24.0",
